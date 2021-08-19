@@ -11,11 +11,7 @@ public with sharing class Demo {
         System.debug('Welcome Devops in Salesforce-1');
 
     }
-
-
    public static void subtraction(integer value1,integer value2) {
     return value1 - value2;
    }
-
-
 }
