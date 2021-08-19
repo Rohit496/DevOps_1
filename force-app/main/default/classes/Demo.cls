@@ -12,8 +12,7 @@ public with sharing class Demo {
 
     }
 
-    public static void main()
-    {
-        System.debug('Subtract branch added ');
-    }
+   public static void subtraction(integer value1,integer value2) {
+    return value1 - value2;
+   }
 }
