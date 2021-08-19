@@ -11,4 +11,10 @@ public with sharing class Demo {
         System.debug('Welcome Devops in Salesforce-1');
 
     }
+
+
+    public static void main()
+    {
+        System.debug('Add branch');
+    }
 }
