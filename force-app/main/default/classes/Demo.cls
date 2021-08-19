@@ -20,8 +20,6 @@ public with sharing class Demo {
         return val1 + val2;
     }
 
-    public static integer multiplication(Integer val11,Integer val22) {
-        return val11 * val22;
-    }
+
 
 }
