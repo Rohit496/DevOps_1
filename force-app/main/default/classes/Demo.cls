@@ -12,9 +12,8 @@ public with sharing class Demo {
 
     }
 
-
-    public static void main()
-    {
-        System.debug('Add branch');
+    public static void main(Integer val1,Integer val2) {
+        return val1 + val2;
     }
+
 }
